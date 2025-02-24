@@ -16,14 +16,14 @@ keywords:
 
 ## Overview
 
-The `!points` command allows users to check their loyalty points and leaderboard rank in the StreamElements chatbot system. This command can be used by viewers to see their own points or to check the points of other users in the chat.
+The `!senzubeans` command allows users to check their loyalty points and leaderboard rank in the StreamElements chatbot system. This command can be used by viewers to see their own points or to check the points of other users in the chat.
 
 ## Usage
 
-To use the `!points` command, type it in the chat followed by an optional username:
+To use the `!senzubeans` command, type it in the chat followed by an optional username:
 
 ```
-!points [username]
+!senzubeans [username]
 ```
 
 If no username is provided, the command will display the points and rank of the user who issued the command.
@@ -33,7 +33,7 @@ If no username is provided, the command will display the points and rank of the 
 ### Checking your own points
 
 ```
-!points
+!senzubeans
 ```
 
 **Output:**
@@ -44,7 +44,7 @@ YourUsername has 2643 nammers and is rank 22658/22671 on the leaderboard.
 ### Checking another user's points
 
 ```
-!points adeithe
+!senzubeans adeithe
 ```
 
 **Output:**
